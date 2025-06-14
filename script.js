@@ -1,5 +1,5 @@
 window.addEventListener('DOMContentLoaded', () => {
-  alert("Welcome to Your Name's Portfolio Website!");
+  alert("Welcome to manasa ganoju's Portfolio Website!");
 
   // Animate progress bars on page load
   const progressBars = document.querySelectorAll('.progress');
